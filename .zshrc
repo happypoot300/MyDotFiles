@@ -106,3 +106,5 @@ source /home/happypoot300/Downloads/AUR/zsh-syntax-highlighting/zsh-syntax-highl
 autoload -Uz compinit
 compinit -i
 eval "$(zoxide init --cmd cd zsh)"
+
+export PATH=$PATH:/home/happypoot300/.spicetify
